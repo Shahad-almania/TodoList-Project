@@ -1,6 +1,5 @@
 # Todo List
 
----
 
 #### Create an todo list application where users can add and delete and update they todos :
 
